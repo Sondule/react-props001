@@ -1,0 +1,28 @@
+.mainContain{
+    /* border: 2px solid black; */
+    width:9rem;
+    height: 15rem;
+    margin: 1.5rem;
+    box-shadow: 5px 5px 10px black;
+    
+}
+
+.color{
+    /* border: 2px solid red; */
+    height: 65%;
+    
+}
+
+.colorCode{
+    border: 2px solid blue0;
+    height: 35%;
+}
+
+h2{
+    margin-top: 1rem;
+}
+p{
+  font-size: larger;
+  margin-top:2.5remm;
+  font-weight: 400;
+}
